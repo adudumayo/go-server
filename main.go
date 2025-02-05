@@ -46,3 +46,8 @@ func main() {
 		log.Fatal(err)
 	}
 }
+
+/* Adding this stupid comment to check if
+waka time api key connected
+successfully
+*/
